@@ -97,13 +97,17 @@ body {
 }
 
 .aditya {
-    font-size: 2em;
+    font-size: 1em;
     text-align: center;
     
 }
 
 h1 {
+
     
+
+    
+
     text-align: center;
     color: transparent;
     text-transform: uppercase;
@@ -113,6 +117,8 @@ h1 {
     background-size: 500%; 
     cursor: default;
     user-select: none;
+    padding-left:5px;
+    padding-right:5px;
 }
 @keyframes animate1
 {
